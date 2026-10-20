@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ParticleSim/ParticleSim.vcxproj" Id="c355a491-e206-4aaf-96f4-269db6f72a64" />
+</Solution>
